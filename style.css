@@ -1,0 +1,69 @@
+ body,
+html {
+  width: 100%;
+  height: 100%;
+  margin: 0px;
+  padding: 0px;
+  border: 0px;
+  font-family: 'Montserrat', sans-serif;
+  background: url('header.jpg') no-repeat center center;
+  background-size: cover; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+} 
+
+#mailchimp {
+  background: lightgray
+  }
+
+ hr{
+border-color:#F05F44;
+border-width: 3px;
+max-width: 65px;
+} 
+
+h1{
+  font-size: 3rem;
+  color: #e2dbdb;
+}
+
+.buffer{
+  height: 14rem;
+}
+
+.btn{
+  font-weight: 700;
+  border-radius: 300px;
+  text-transform: uppercase;
+}
+
+.btn-xl{
+  /* background-color: tomato;
+  border-radius: 50px 50px 50px 50px;
+  border-color: tomato;
+  margin: 0 auto;
+  position: absolute;
+  top: 70%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%); */
+  }
+
+.btn-primary{
+  background-color: #F05F44;
+  border-color: #F05F44 ;
+}
+
+.btn-primary:hover {
+  border-width: 12px;
+  background-color: #F05F44;
+  border-color: #F05F44 ;
+}
+
+
+
+
+
+
